@@ -13,6 +13,8 @@ Welcome to the Gemini Clone project! This repository houses a meticulously craft
 3. **Responsive Layout:** Built with responsiveness in mind, the clone adapts flawlessly to various screen sizes, ensuring a consistent experience across devices.
 
 4. **Custom Styling:** Carefully crafted CSS styles bring the clone to life, capturing the essence of Gemini's aesthetics.
+   ![gemini clone](https://github.com/Akhilpraka5h/gym-website/assets/134758922/0d4a1620-8e61-45c7-9698-77c127b0d709)
+
 
 **Getting Started:**
 
