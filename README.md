@@ -41,7 +41,7 @@ npm install
 ```
 npm start
 ```
-
+https://www.linkedin.com/posts/akhil-k-p-6476a322b_reactjs-webdevelopment-cloneproject-activity-7193464883286347777-X1hJ?utm_source=share&utm_medium=member_desktop
 5. Open your browser and navigate to `http://localhost:3000` to view the Gemini Clone in action.
 
 **License:**
